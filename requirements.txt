@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+g4f
+curl_cffi
+requests
+python-dotenv
